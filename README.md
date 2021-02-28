@@ -3,8 +3,8 @@
 Môn: Xử lý ngôn ngữ tự nhiên
 
 
-Nhóm:
-18120219 - Đặng Đỗ Huỳnh Như
+Nhóm:  
+18120219 - Đặng Đỗ Huỳnh Như  
 18120292 - Nguyễn Dương Binl
 
 Mô tả:  
