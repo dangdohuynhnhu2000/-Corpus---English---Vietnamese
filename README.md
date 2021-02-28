@@ -7,9 +7,9 @@ Nhóm:
 18120219 - Đặng Đỗ Huỳnh Như
 18120292 - Nguyễn Dương Binl
 
-Mô tả:
-1/ Tìm hiểu về ngữ liệu, kho ngữ liệu song ngữ và các phương pháp xây dựng kho ngữ liệu song ngữ.
-2/ Tìm kiếm các nguồn thu thập dữ liệu thỏa mãn yêu cầu.
+Mô tả:  
+1/ Tìm hiểu về ngữ liệu, kho ngữ liệu song ngữ và các phương pháp xây dựng kho ngữ liệu song ngữ.  
+2/ Tìm kiếm các nguồn thu thập dữ liệu thỏa mãn yêu cầu.  
 3/ Thu thập dữ liệu các cặp câu, văn bản song ngữ qua 2 trang web vi.glosbe.com và unicef.org.
 4/ Thực hiện tách câu và tách từ.
 5/ Thực hiện gióng hàng để tìm ra cặp câu là song ngữ của nhau dựa vào phương pháp sử dụng từ điển Anh - Việt.
