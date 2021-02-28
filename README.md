@@ -1,5 +1,7 @@
 Đồ án: Xây dựng kho ngữ liệu song ngữ Anh - Việt
+
 Môn: Xử lý ngôn ngữ tự nhiên
+
 
 Nhóm:
 18120219 - Đặng Đỗ Huỳnh Như
